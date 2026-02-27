@@ -1,9 +1,28 @@
-# مهمة بـ لعبة: شغب في مدارس لندن
+# Bully – Mission Script (Lua)
 
-## معلومات عامة
-* السكربت كان من اوائل المشاريع الي ابرمجها بـ لغة Lua, والسكربت على انه مشروع ضخم الا انه تقدر تطلع منه اخطاء بسبب صعوبة الـ Exception Handling باللعبة, لأن اللعبة من عام 2006.
-* السكربت من سطر 1151 الى سطر 1190 شفرت الكلام لأسباب خاصة.
-* المهمة قليلة أدب شوية, اعتذر.
+## Overview
+
+This project is one of my earliest large-scale scripts written in **Lua**.  
+It implements a custom mission scenario.
+
+Although the project is extensive, some inconsistencies may exist due to engine limitations — particularly the lack of exception handling mechanisms in older architectures.
+
+> ⚠️ Note: Lines `1151–1190` in the source code are intentionally obfuscated for private reasons.
+
+
+## Mission Notes
+
+This mission contains some mature dialogue elements as part of its narrative context.
+
+---
+
 ## Credits
-* Fibonacci - Developed the script
-* derpy54320 - for making PedsPrepareConversation function.
+
+- **Fibonacci** — Script development  
+- **derpy54320** — Implementation of the `PedsPrepareConversation` function
+
+---
+
+## Project Status
+
+Archived early project. Shared for learning, experimentation, and reference purposes.
