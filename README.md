@@ -39,9 +39,9 @@ The cast uses custom nicknames rather than the game's character names. The dialo
 ## Notes
 
 - Lines 1151 to 1190 (the office conversation) have their subtitle text masked on purpose, for private reasons.
-- One of the author's earliest large-scale Lua scripts, shared for learning, experimentation and reference.
+- One of my earliest large-scale Lua scripts, shared for learning, experimentation and reference.
 
 ## Credits
 
-- Fibonacci: script development.
+- Mahdi (Fibonacci): script development.
 - derpy54320: the `PedsPrepareConversation` function.
